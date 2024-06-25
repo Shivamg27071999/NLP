@@ -115,9 +115,6 @@ To replicate the analysis and model building steps, follow these instructions:
    ```
    Open `sentiment_analysis.ipynb` to see the full workflow.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
 
 By following these steps and using the provided code, you can conduct your own sentiment analysis on Twitter data and build robust machine learning models to classify tweet sentiments.
